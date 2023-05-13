@@ -80,16 +80,4 @@ public class ContactServiceimpl implements ContactService {
 		Customer customer = optional.orElseThrow(()->new CustomerException("Service.CUSTOMER_DELETED"));
 		customerRepository.delete(customer);
 	}
-	
-	
-
-
-
-
-	
-
-
-
-	
-
 }
