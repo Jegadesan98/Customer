@@ -110,11 +110,4 @@ public class Customer {
 				&& Objects.equals(CustEmailId, other.CustEmailId) && Objects.equals(CustId, other.CustId)
 				&& Objects.equals(CustLoc, other.CustLoc) && Objects.equals(Custname, other.Custname);
 	}
-
-	
-
-	
-	
-	
-	
 }
