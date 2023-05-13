@@ -59,17 +59,4 @@ public class CustomerDTO {
 				+ CustEmailId + ", CustAadharNum=" + CustAadharNum + ", CustContactNum=" + CustContactNum
 				+ ", ContactDetails=" + ContactDetails + "]";
 	}
-	
-	
-
-	
-
-	
-	
-	
-	
-	
-	
-
-	
 }
