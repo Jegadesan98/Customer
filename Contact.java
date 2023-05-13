@@ -58,16 +58,4 @@ public class Contact{
 				&& Objects.equals(FrndName, other.FrndName) && FrndPhoneNumber == other.FrndPhoneNumber
 				&& Objects.equals(custPersonId, other.custPersonId);
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }
